@@ -54,3 +54,14 @@ Created dashboard-style graphs comparing stock prices and revenue trends
 Tesla shows strong growth in both stock price and revenue between 2018–2021
 
 GameStop shows declining or stagnant revenue with highly volatile stock prices
+
+## 📊 Dashboard Snapshots
+
+### Tesla — Stock Price & Revenue
+![Tesla Dashboard](tesla_dashboard.png)
+
+---
+
+### GameStop — Stock Price & Revenue
+![GameStop Dashboard](gamestop_dashboard.png)
+
