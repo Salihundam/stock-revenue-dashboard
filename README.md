@@ -1,5 +1,3 @@
-# stock-revenue-dashboard
-analyzing-stock-and-revenue-data
 📊 Stock & Revenue Dashboard — Tesla and GameStop
 🔍 Project Overview
 
